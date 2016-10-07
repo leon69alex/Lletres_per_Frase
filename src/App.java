@@ -20,7 +20,7 @@ public class App {
 					contador ++;
 				}
 			}
-			System.out.println(array[i] + ":" + contador);
+			System.out.println(array[i] + ":" + frase);
 		}
 
 	}
