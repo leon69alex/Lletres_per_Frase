@@ -3,6 +3,7 @@ public class App {
 
 	public static void main(String[] args) {
 		
+		//Comentari1;
 		String frase = "dwabniubudwaibii";
 		String[] array = frase.split("");
 		String[] lletres = new String[array.length];
